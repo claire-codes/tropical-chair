@@ -5,10 +5,12 @@
  * @see services
  */
 var controllers = angular.module('ExampleApp.controllers', [])
-    .controller('ExampleController', function ($scope, UserdataService) {
+    .controller('ExampleController', function ($scope, SillyService) {
 
-        UserdataService.getFirstUsername().then(function(firstUsername) {
-            $scope.firstUsername = firstUsername;
-        }); 
+    	$scope.floop = SillyService.sillySum(2, 2);
+
+        // UserdataService.getFirstUsername().then(function(firstUsername) {
+        //     $scope.firstUsername = firstUsername;
+        // }); 
 
     });
