@@ -4,16 +4,13 @@ The most basic of basic.
 
 ## Setup
 
-`npm install -g bower`
-`npm install -g grunt-cli`
-`npm install -g karma-cli`
-`npm install grunt-contrib-sass --save-dev`
-`npm install grunt-contrib-watch --save-dev`
-`npm install`
+```
+npm install
+```
 
-Run app with `npm start`
-Run Grunt tasks (automatic Sass compilation) with `grunt`
-Run tests with `karma start`
+* Run app with `npm start`
+* Run Grunt tasks (automatic Sass compilation) with `grunt`
+* Run tests with `karma start`
 
 ### Does have
 * Components

@@ -1,12 +1,14 @@
 {
-  "name": "Example",
-  "namelower": "example",
-  "version": "0.0.1",
+  "name": "tropical-chair",
+  "author": "claireparker",
+  "license": "ISC",
+  "version": "0.2.0",
   "description": "An example AngularJS project",
+  "homepage": "https://github.com/claireparker/tropical-chair",
   "readme": "README.md",
   "repository": {
     "type": "git",
-    "url": "git@git.example.com:example.git"
+    "url": "git@github.com:claireparker/tropical-chair.git"
   },
   "devDependencies": {
     "express": "^4.13.3",
