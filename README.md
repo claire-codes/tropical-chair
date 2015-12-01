@@ -1,6 +1,10 @@
 I am making changes in order to test my Git hooks and you are the lucky repo that I am making the changes to.
+
 Second change :bento:
+
 Third, fiddlesticks :golf:
+
+Fourth, nearly there :waning_gibbous_moon:
 
 # Angular 1.x Seed App
 
