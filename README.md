@@ -1,3 +1,5 @@
+I am making changes in order to test my Git hooks and you are the lucky repo that I am making the changes to.
+
 # Angular 1.x Seed App
 
 The most basic of basic.
